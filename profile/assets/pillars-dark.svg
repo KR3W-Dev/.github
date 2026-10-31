@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250"><style>@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}</style><rect x=".5" y=".5" width="1199" height="249" rx="20" fill="#0b0b0c" stroke="#26262a"/><text x="60" y="54" font-family="'BBH Bartle','Arial Black','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="900" fill="#f5f5f6">WHAT WE BUILD</text><text x="1140" y="54" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="1" fill="#9c9ca5">NIMOCLUB.GG</text><g style="animation:in .6s 0.00s both"><rect x="60" y="90" width="240" height="120" rx="14" fill="#141416" stroke="#26262a"/>
+<text x="82" y="122" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#9c9ca5">01 · COMMUNITY</text>
+<text x="82" y="160" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#f5f5f6">Community</text>
+<text x="82" y="187" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#9c9ca5">Creators and members</text>
+<rect x="82" y="198" width="28" height="3" rx="1.5" fill="#f5ff3b"/></g><g style="animation:in .6s 0.12s both"><rect x="340" y="90" width="240" height="120" rx="14" fill="#141416" stroke="#26262a"/>
+<text x="362" y="122" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#9c9ca5">02 · AI STUDIO</text>
+<text x="362" y="160" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#f5f5f6">AI Studio</text>
+<text x="362" y="187" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#9c9ca5">Create with AI</text>
+<rect x="362" y="198" width="28" height="3" rx="1.5" fill="#f5ff3b"/></g><g style="animation:in .6s 0.24s both"><rect x="620" y="90" width="240" height="120" rx="14" fill="#141416" stroke="#26262a"/>
+<text x="642" y="122" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#9c9ca5">03 · TOURNAMENTS</text>
+<text x="642" y="160" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#f5f5f6">Tournaments</text>
+<text x="642" y="187" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#9c9ca5">Campaigns and competitions</text>
+<rect x="642" y="198" width="28" height="3" rx="1.5" fill="#f5ff3b"/></g><g style="animation:in .6s 0.36s both"><rect x="900" y="90" width="240" height="120" rx="14" fill="#141416" stroke="#26262a"/>
+<text x="922" y="122" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#9c9ca5">04 · PLANS</text>
+<text x="922" y="160" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#f5f5f6">Subscription plans</text>
+<text x="922" y="187" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#9c9ca5">Free to start, paid tiers</text>
+<rect x="922" y="198" width="28" height="3" rx="1.5" fill="#f5ff3b"/></g></svg>
